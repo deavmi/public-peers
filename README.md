@@ -1,7 +1,7 @@
 # Public Peers
 
 This repository contains peering information for publicly accessible nodes on
-the Yggdrasil network. 
+the Yggdrasil network. This repo only for Yggdrasil v0.4 peers.
 
 Note that not all peers in this repository are guaranteed to be online - check
 the [Public Peers](https://publicpeers.neilalexander.dev/) page instead to find
